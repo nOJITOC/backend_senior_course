@@ -1,3 +1,6 @@
 # Ignore Gemini and Roadmap specific files
 GEMINI.md
 ROADMAP.md
+
+# Ignore project-specific Gradle build file
+build.gradle.kts

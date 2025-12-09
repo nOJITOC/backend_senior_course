@@ -3,7 +3,7 @@
 ### Phase 1: Foundations & Kotlin Backend Basics
 
 - [x] [1. Modern Backend Architecture](./lessons/01-foundations/01-modern-backend-architecture.md)
-- [ ] 2. Setting up the Kotlin Backend Environment
+- [x] 2. Setting up the Kotlin Backend Environment ([completed](./lessons/01-foundations/02-setting-up-kotlin-backend-environment.md))
 - [ ] 3. Introduction to Ktor
 - [ ] 4. Asynchronous Programming with Kotlin Coroutines
 
