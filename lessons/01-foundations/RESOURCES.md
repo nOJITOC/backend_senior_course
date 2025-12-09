@@ -1,29 +1,33 @@
-# Ресурсы: Современная архитектура бэкенда
+# Resources for Phase 1: Foundations
 
-### Книги:
-*   **"Создание микросервисов"** Сэм Ньюмен. (Основополагающая книга по микросервисам, доступна на русском языке)
-    *   *Примечание: Ищите "Сэм Ньюмен Создание микросервисов" в вашем любимом книжном магазине (например, Ozon, LitRes) для покупки легальных цифровых или физических копий.*
-*   **"От монолита к микросервисам"** Сэм Ньюмен. (Фокусируется на процессе перехода, доступна на русском языке)
-    *   *Примечание: Ищите "Сэм Ньюмен От монолита к микросервисам" в вашем любимом книжном магазине.*
-*   **"Чистая архитектура. Искусство разработки программного обеспечения"** Роберт С. Мартин. (Фундаментальные принципы, широко доступна на русском языке)
-    *   *Примечание: Ищите "Роберт Мартин Чистая архитектура" в вашем любимом книжном магазине.*
-*   **"Архитектура бэкенда. API для надежных корпоративных приложений"** В.И. Светлаков (2025). (Комплексный обзор бэкенд-разработки, доступна на русском языке)
-    *   *Ссылки для покупки: Books.ru, Domknigi.eu, Ozon.*
-*   **"Высоконагруженные приложения: Программирование. Масштабирование. Поддержка" (Designing Data-Intensive Applications)** Мартин Клеппман. (Отличная книга по масштабируемым системам, доступна на русском языке)
-    *   *Примечание: Ищите "Мартин Клеппман Высоконагруженные приложения" в вашем любимом книжном магазине.*
-*   **"Микросервисы. Паттерны разработки и рефакторинга"** Крис Ричардсон. (Паттерны микросервисов, доступна на русском языке)
-    *   *Примечание: Ищите "Крис Ричардсон Микросервисы паттерны" в вашем любимом книжном магазине.*
-*   **"Бэкенд-разработка веб-приложений. Архитектура, проектирование и управление проектами"** Антон Баланов (2024). (Архитектура веб-бэкенда, доступна на русском языке)
-    *   *Ссылка для покупки: Лабиринт.*
-*   **"Modular Monoliths" by Kamil Grzybek:** (Ключевой ресурс по модульным монолитам, вероятно, на английском языке, но концепция очень важна).
-    *   *Примечание: Ищите "Kamil Grzybek Modular Monoliths" в интернете.*
+This file contains a log of all recommended books, articles, and other resources for the topics in this phase.
 
-### Статьи и руководства:
-*   **"Монолитная и микросервисная архитектура. Сравнение" (Хабр):** [https://habr.com/ru/companies/haulmont/articles/759000/](https://habr.com/ru/companies/haulmont/articles/759000/)
-*   **"Модульный монолит. Начало" (Хабр):** [https://habr.com/ru/companies/dodobrands/articles/651409/](https://habr.com/ru/companies/dodobrands/articles/651409/)
-*   **"Монолит vs Микросервисы vs Модульный монолит" (system-analyst.ru):** [https://system-analyst.ru/blog/monolit-vs-mikroservisy-vs-modulnyy-monolit](https://system-analyst.ru/blog/monolit-vs-mikroservisy-vs-modulnyy-monolit)
-*   **"REST vs GraphQL: Сравнение и лучшие практики" (Хабр):** [https://habr.com/ru/companies/badoo/articles/668872/](https://habr.com/ru/companies/badoo/articles/668872/)
-*   **"REST vs GraphQL: Лучшие практики проектирования API" (mediasoft.team):** [https://mediasoft.team/blog/rest-vs-graphql-luchshie-praktiki-proektirovaniya-api](https://mediasoft.team/blog/rest-vs-graphql-luchshie-praktiki-proektirovaniya-api)
+---
 
-### Видео:
-*   **"Модульный Монолит и Микросервисы. Что лучше для масштабирования и производительности?" (YouTube):** *К сожалению, прямая ссылка не была корректно распознана в предыдущих результатах. Пожалуйста, попробуйте найти видео по названию на YouTube.*
+### 1. Modern Backend Architecture
+
+**Books:**
+*   **"Domain-Driven Design: Tackling Complexity in the Heart of Software"** by Eric Evans.
+    *   *Description:* Foundational book for building modular systems based on business domains. A must-read for understanding how to structure modules correctly.
+*   **"Strategic Monoliths and Microservices"** by Vaughn Vernon, Tomasz Jaskula.
+    *   *Description:* Discusses strategic decision-making for choosing and evolving architectures. Helps to understand *why* and *when* to choose a specific path.
+
+**Articles & Resources:**
+*   [VC.ru - Модульный монолит, паттерны взаимодействия между модулями](https://vc.ru/dev/1099000-modulnyy-monolit-patterny-vzaimodeystviya-mezhdu-modulyami) (Russian)
+    *   *Description:* A detailed Russian article on inter-module communication patterns, which is highly relevant to our chosen architecture.
+*   [FreeCodeCamp - gRPC vs REST: The Best API for Your Microservice](https://www.freecodecamp.org/news/grpc-vs-rest-api-for-microservices/) (English)
+    *   *Description:* A comprehensive comparison of gRPC and REST, important for our upcoming API design decision.
+*   [GraphQL Official Docs - Subscriptions](https://graphql.org/learn/subscriptions/) (English)
+    *   *Description:* Official documentation explaining the real-time capabilities of GraphQL, a key feature for our game.
+---
+
+### 2. Setting up the Kotlin Backend Environment
+*(Resources for this topic will be added when we start it)*
+
+---
+
+### 3. Introduction to Ktor
+*(Resources for this topic will be added when we start it)*
+
+---
+//... and so on for all topics in this phase.
