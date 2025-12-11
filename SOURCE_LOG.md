@@ -46,3 +46,19 @@
 *   [GeeksforGeeks - Getting Started with Ktor](https://www.geeksforgeeks.org/getting-started-with-ktor-in-kotlin/) (Basic setup and first steps).
 
 ---
+### 4. Asynchronous Programming with Kotlin Coroutines
+
+**Official Documentation & Guides:**
+*   [Kotlin Coroutines Guide](https://kotlinlang.org/docs/coroutines-overview.html) (Official Kotlin documentation, essential reading).
+*   [Ktor Coroutines Integration](https://ktor.io/docs/coroutines.html) (Ktor's guide on using coroutines with the framework).
+
+**Books (recommended):**
+*   **"Kotlin Coroutines by Tutorials"** by Filip Babić, Ante Glavas (Ray Wenderlich).
+    *   *Description:* Practical, hands-on approach to learning coroutines.
+
+**Articles & Tutorials:**
+*   [Medium - Kotlin Coroutines for Android: The Full Story](https://proandroiddev.com/kotlin-coroutines-for-android-the-full-story-130096956886) (Although Android-focused, covers core concepts well).
+*   [Baeldung - Guide to Kotlin Coroutines](https://www.baeldung.com/kotlin-coroutines) (Comprehensive tutorial with examples).
+*   [Kotlin Coroutines: Deep Dive into async, await and withContext](https://medium.com/swlh/kotlin-coroutines-deep-dive-into-async-await-and-withcontext-9b37c62d0571) (Good article on builders and dispatchers).
+
+---
