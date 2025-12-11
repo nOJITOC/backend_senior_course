@@ -14,7 +14,7 @@ This file contains a log of all recommended books, articles, and other resources
 
 **Articles & Resources:**
 *   [VC.ru - Модульный монолит, паттерны взаимодействия между модулями](https://vc.ru/dev/1099000-modulnyy-monolit-patterny-vzaimodeystviya-mezhdu-modulyami) (Russian)
-*   [FreeCodeCamp - gRPC vs REST: The Best API for Your Microservice](https://www.freecodecamp.org/news/grpc-vs-rest-api-for-microservices/) (English)
+*   [FreeCodeCamp - gRPC vs REST vs GraphQL](https://www.freecodecamp.org/news/grpc-vs-rest-api-for-microservices/) (English)
 *   [GraphQL Official Docs - Subscriptions](https://graphql.org/learn/subscriptions/) (English)
 
 ---
@@ -37,7 +37,14 @@ This file contains a log of all recommended books, articles, and other resources
 ---
 
 ### 3. Introduction to Ktor
-*(Resources for this topic will be added when we start it)*
+
+**Official Documentation & Guides:**
+*   [Ktor Documentation](https://ktor.io/docs/) (The official and most comprehensive resource).
+*   [Ktor GitHub](https://github.com/ktorio/ktor) (Source code, issues, examples).
+
+**Articles & Tutorials:**
+*   [Medium - Ktor Framework Overview](https://medium.com/@philipp.paffrath/ktor-a-kotlin-web-framework-for-modern-backend-development-5f9f8c123b7e) (Good overview of features and benefits).
+*   [Ktor by Example](https://ktor.io/docs/samples.html) (Official Ktor samples, very helpful for learning by doing).
+*   [GeeksforGeeks - Getting Started with Ktor](https://www.geeksforgeeks.org/getting-started-with-ktor-in-kotlin/) (Basic setup and first steps).
 
 ---
-//... and so on for all topics in this phase.

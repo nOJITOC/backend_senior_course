@@ -33,3 +33,16 @@
 *   **IDE:** [IntelliJ IDEA Plugins for Kotlin](https://www.jetbrains.com/help/idea/kotlin.html#plugins) (Official JetBrains recommendations).
 
 ---
+
+### 3. Introduction to Ktor
+
+**Official Documentation & Guides:**
+*   [Ktor Documentation](https://ktor.io/docs/) (The official and most comprehensive resource).
+*   [Ktor GitHub](https://github.com/ktorio/ktor) (Source code, issues, examples).
+
+**Articles & Tutorials:**
+*   [Medium - Ktor Framework Overview](https://medium.com/@philipp.paffrath/ktor-a-kotlin-web-framework-for-modern-backend-development-5f9f8c123b7e) (Good overview of features and benefits).
+*   [Ktor by Example](https://ktor.io/docs/samples.html) (Official Ktor samples, very helpful for learning by doing).
+*   [GeeksforGeeks - Getting Started with Ktor](https://www.geeksforgeeks.org/getting-started-with-ktor-in-kotlin/) (Basic setup and first steps).
+
+---
